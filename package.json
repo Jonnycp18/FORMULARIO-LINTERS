@@ -32,6 +32,7 @@
     "webpack-dev-server": "^5.2.0"
   },
   "dependencies": {
+    "espress": "^0.0.0",
     "express": "^4.21.2",
     "formulario": "file:",
     "serve": "^14.2.4"
